@@ -1,6 +1,8 @@
 # Online course starter: R
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewmaclachlan/GIScourse/binder)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4cfbaf6b-48ea-434d-8329-14021727d750/deploy-status)](https://app.netlify.com/sites/casagis/deploys)
+
 
 This is a starter repo based on the
 [course framework](https://github.com/ines/spacy-course) I developed for my
