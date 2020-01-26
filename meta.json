@@ -1,15 +1,15 @@
 {
     "courseId": "course-starter-r",
-    "title": "Hello",
-    "slogan": "A free online course",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
-    "siteUrl": "https://course-starter-r.netlify.com",
-    "twitter": "spacy_io",
+    "title": "CASA GIS course",
+    "slogan": "Supplement to the GIS workbook",
+    "description": "",
+    "bio": "Dr Andrew MacLachlan is a teaching fellow in spatial data science and visualisation in the Centre for Advanced Spatial Analysis (CASA), University College London.Prior to joining CASA he completed his PhD by publication in the department of Geography and Environmental Science at the University of Southampton funded by the Economic and Social Research Council in collaboration with the University of Western Australia. Andrew has worked with a range of global government, industry and charity partners in establishing policy improvements through applied spatial and temporal environmental analysis. ",
+    "siteUrl": "https://casagis.netlify.com/",
+    "twitter": "andymaclachlan",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "success <- function(text) {\n    cat(paste(\"\\033[32m\", text, \"\\033[0m\", sep = \"\"))\n}\n\n.solution <- \"${solutionEscaped}\"\n\n${solution}\n\n${test}\ntryCatch({\n    test()\n}, error = function(e) {\n    cat(paste(\"\\033[31m\", e[1], \"\\033[0m\", sep = \"\"))\n})",
     "juniper": {
-        "repo": "ines/course-starter-r",
+        "repo": "andrewmaclachlan/GIScourse",
         "branch": "binder",
         "lang": "r",
         "kernelType": "ir",
@@ -18,8 +18,8 @@
     "showProfileImage": true,
     "footerLinks": [
         { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-r" },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-r" }
+        { "text": "Source", "url": "https://github.com/andrewmaclachlan/GIScourse" },
+        { "text": "Built with ♥", "url": "https://github.com/andrewmaclachlan/GIScourse" }
     ],
     "theme": "#de7878"
 }
