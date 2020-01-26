@@ -3,6 +3,7 @@
     "title": "CASA GIS course",
     "slogan": "CASA GIS",
     "description": "This GIS tutorial completents the CASA GIS course textbook",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
     "siteUrl": "https://casagis.netlify.com/",
     "twitter": "andymaclachlan",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
