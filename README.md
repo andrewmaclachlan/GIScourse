@@ -1,5 +1,7 @@
 # Online course starter: R
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andrewmaclachlan/GIScourse/binder)
+
 This is a starter repo based on the
 [course framework](https://github.com/ines/spacy-course) I developed for my
 [spaCy course](https://course.spacy.io). The front-end is powered by
