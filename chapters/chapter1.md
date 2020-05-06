@@ -1,8 +1,7 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Chapter 1: Geographic information systems'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'This chapter will review the core concepts of GIS taught in week 1.'
 prev: null
 next: /chapter2
 type: chapter
@@ -18,25 +17,24 @@ id: 1
 
 <exercise id="2" title="Getting Started">
 
-Let's ask some questions about the slides. Whats the correct answer?
+What are the characteristics of a raster dataset
 
 <choice>
-<opt text="Answer one">
+<opt text="It has points, lines and polygons">
 
 This is not the correct answer.
 
 </opt>
 
-<opt text="Answer two" correct="true">
+<opt text="It is a grid of consistent cell size" correct="true">
 
 Good job!
 
 </opt>
 
-<opt text="Answer three">
+<opt text="It's a mixture of polylines and cells">
 
-This is not correct either.
-
+This is not the correct answer.
 </opt>
 </choice>
 
