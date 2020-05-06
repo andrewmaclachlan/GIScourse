@@ -7,7 +7,6 @@ next: /chapter2
 type: chapter
 id: 1
 ---
-
 <exercise id="1" title="Introduction" type="slides">
 
 <slides source="chapter1_01_introduction">
@@ -15,7 +14,7 @@ id: 1
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="Basics of Geographic Information">
 
 What are the characteristics of a raster dataset
 
@@ -37,8 +36,43 @@ Good job!
 This is not the correct answer.
 </opt>
 </choice>
+</exercise>
+
+###################
 
 </exercise>
+
+<exercise id="3" title="Basics data types">
+
+Select all the correct statements
+
+<choice>
+<opt text="Continuous data can only have two possible values" correct="False">
+This is not the correct answer.
+
+</opt>
+
+<opt text="Discrete data is based on a classificaiton and can be counted" correct="true">
+Good job!
+
+</opt>
+
+<opt text="Ordinal data has an ordered scale" correct="true">
+Good job!
+
+</opt>
+
+<opt text="Nominal data has an ordered scale" correct="False">
+This is not the correct answer.
+
+</opt>
+</choice>
+</exercise>
+
+
+
+##############################
+
 
 <exercise id="3" title="First steps">
 
