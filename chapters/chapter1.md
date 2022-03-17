@@ -38,43 +38,41 @@ This is not the correct answer.
 </choice>
 </exercise>
 
-###################
-
 </exercise>
-
 <exercise id="3" title="Basics data types">
 
-Select all the correct statements
+Select the **incorrect** statement
 
 <choice>
-<opt text="Continuous data can only have two possible values" correct="False">
+<opt text="A yes and no choice is continuous" correct="True">
+Nice work!
+</opt>
+
+<opt text="The number of people in a class is discrete data" correct="true">
 This is not the correct answer.
 
 </opt>
 
-<opt text="Discrete data is based on a classificaiton and can be counted" correct="true">
-Good job!
+<opt text="A happiness rating is an example of ordinal data" correct="true">
+This is not the correct answer.
 
 </opt>
 
-<opt text="Ordinal data has an ordered scale" correct="true">
-Good job!
-
-</opt>
-
-<opt text="Nominal data has an ordered scale" correct="False">
+<opt text="Hair colour is an example of nominal data" correct="False">
 This is not the correct answer.
 
 </opt>
 </choice>
 </exercise>
 
+<exercise id="4" title="Data loading">
 
+The next 3 sections will look at the basics of data loading, joining and mapping that were presented within the first practical.
 
-##############################
+Here we are going to get some public bike sharing data, join it to some administrative boundaries and map daily usage.  
 
+There are many sources of bike sharing data, but we can use a new `bikedata` package. 
 
-<exercise id="3" title="First steps">
 
 This is a code exercise. The content can be formatted in simple Markdown – so
 you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
